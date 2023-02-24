@@ -1,2 +1,2 @@
-# DSI310 Data Preparation
-Data Product Assignment Week 01
+# DSI310 Bigdata Infra
+Assignment
