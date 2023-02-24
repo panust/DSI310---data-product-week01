@@ -1,2 +1,2 @@
-# DSI321 Bigdata Infra
-Assignment
+# DSI321 Data Preparation
+Data Product Assignment Week 01
